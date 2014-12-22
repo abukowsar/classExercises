@@ -1,4 +1,3 @@
-
 <?php
 $input = array("oranges", "apples", "pears");
 $flipped = array_flip($input);

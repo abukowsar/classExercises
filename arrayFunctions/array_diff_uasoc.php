@@ -1,4 +1,3 @@
-
 <?php
 function key_compare_func($a, $b)
 {
